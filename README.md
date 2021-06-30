@@ -3,7 +3,7 @@
 I'm Brazilian Front-End developer and this is my Repository.
 
 <!--<br/>🔭 &nbsp; I’m currently working at **123Milhas**-->
-<br/>:notebook: &nbsp; I’m currently learning about Next.js
+<!-- <br/>:notebook: &nbsp; I’m currently learning about Next.js -->
 <br/>:construction_worker: &nbsp; I can help you with **React, Angularjs, JavaScript and CSS**
 <br/> :purple_heart: &nbsp; I love code
 <br/><br/> [![Linkedin Badge](https://img.shields.io/badge/-DiegoDamasio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damasiomg/)](https://www.linkedin.com/in/damasiomg/) 
