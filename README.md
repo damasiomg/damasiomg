@@ -2,7 +2,7 @@
 
 I'm Brazilian Front-End developer and this is my Repository.
 
-<!--<br/>🔭 &nbsp; I’m currently working at **123Milhas**-->
+<br/>🔭 &nbsp; I’m currently working at **Órama**
 <!-- <br/>:notebook: &nbsp; I’m currently learning about Next.js -->
 <br/>:construction_worker: &nbsp; I can help you with **React, Angularjs, JavaScript and CSS**
 <br/> :purple_heart: &nbsp; I love code
