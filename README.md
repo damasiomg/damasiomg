@@ -2,7 +2,7 @@
 
 I'm Brazilian Front-End developer and this is my Repository.
 
-🔭 &nbsp; I’m currently working at **Órama**
+<!--🔭 &nbsp; I’m currently working at **Órama** -->
 <br/>:construction_worker: &nbsp; I can help you with **React, Angularjs, JavaScript and CSS**
 <br/> :purple_heart: &nbsp; I love code
 <br/><br/> [![Linkedin Badge](https://img.shields.io/badge/-DiegoDamasio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damasiomg/)](https://www.linkedin.com/in/damasiomg/) 
