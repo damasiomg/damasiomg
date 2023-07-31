@@ -5,7 +5,7 @@ I'm Brazilian Front-End developer and this is my Repository.
 <!--🔭 &nbsp; I’m currently working at **Órama** -->
 <br/>:construction_worker: &nbsp; I can help you with **React, React Native, Angularjs, JavaScript and CSS/Sass**
 <br/> :purple_heart: &nbsp; I love code
-<!-- <br/><br/> [![Linkedin Badge](https://img.shields.io/badge/-DiegoDamasio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damasiomg/)](https://www.linkedin.com/in/damasiomg/) -->
+<br/><br/> [![Linkedin Badge](https://img.shields.io/badge/-DiegoDamasio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damasiomg/)](https://www.linkedin.com/in/damasiomg/)
 <!--[![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdamasiomg)](https://twitter.com/damasiomg)-->
 <!-- <br/>:notebook: &nbsp; I’m currently learning about Next.js -->
 
