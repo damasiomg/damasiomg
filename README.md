@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Brazilian Front-End developer and this is my Repository.
+I'm Brazilian Software Engineer and this is my Repository.
 
 <!--🔭 &nbsp; I’m currently working at **Órama** -->
 <br/>:construction_worker: &nbsp; I can help you with **Angular, React, React Native, TypeScript, Styled-Components e Jest**
